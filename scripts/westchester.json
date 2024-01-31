@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "Westchester",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Voets front porch" }, "geometry": { "type": "Point", "coordinates": [ -118.37188, 33.970142 ] } },
+{ "type": "Feature", "properties": { "Name": "Kent's yard" }, "geometry": { "type": "Point", "coordinates": [ -118.40048, 33.978977 ] } },
+{ "type": "Feature", "properties": { "Name": "Westchester" }, "geometry": { "type": "Point", "coordinates": [ -118.391396, 33.96655 ] } },
+{ "type": "Feature", "properties": { "Name": "Osage Triangle outside" }, "geometry": { "type": "Point", "coordinates": [ -118.3794, 33.96232 ] } },
+{ "type": "Feature", "properties": { "Name": "Kentwood South" }, "geometry": { "type": "Point", "coordinates": [ -118.40416, 33.960133 ] } },
+{ "type": "Feature", "properties": { "Name": "TF home outside" }, "geometry": { "type": "Point", "coordinates": [ -118.45176, 33.963295 ] } },
+{ "type": "Feature", "properties": { "Name": "TF home inside" }, "geometry": { "type": "Point", "coordinates": [ -118.449165, 33.958443 ] } },
+{ "type": "Feature", "properties": { "Name": "N. Pershing Dr, PDR" }, "geometry": { "type": "Point", "coordinates": [ -118.44429, 33.959095 ] } },
+{ "type": "Feature", "properties": { "Name": "Cabton" }, "geometry": { "type": "Point", "coordinates": [ -118.44202, 33.9586 ] } },
+{ "type": "Feature", "properties": { "Name": "Playa del Rey" }, "geometry": { "type": "Point", "coordinates": [ -118.44063, 33.957664 ] } },
+{ "type": "Feature", "properties": { "Name": "Playa Vista" }, "geometry": { "type": "Point", "coordinates": [ -118.42094, 33.971844 ] } },
+{ "type": "Feature", "properties": { "Name": "The Crow's Nest" }, "geometry": { "type": "Point", "coordinates": [ -118.409134, 33.961536 ] } },
+{ "type": "Feature", "properties": { "Name": "Home-garage" }, "geometry": { "type": "Point", "coordinates": [ -118.3839, 33.974392 ] } },
+{ "type": "Feature", "properties": { "Name": "Sullivan Field" }, "geometry": { "type": "Point", "coordinates": [ -118.41536, 33.966743 ] } }
+]
+}

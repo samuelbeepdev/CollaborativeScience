@@ -1,0 +1,242 @@
+[
+    {
+        "name": "Home-garage",
+        "location": [
+            -118.3839,
+            33.974392
+        ],
+        "data": {
+            "pm": 37.9,
+            "tenmin": 37.3,
+            "thirtymin": 35.6,
+            "sixtymin": 31.2,
+            "hour": 18.2,
+            "day": 13.5,
+            "week": 19.2
+        }
+    },
+    {
+        "name": "TF home outside",
+        "location": [
+            -118.45176,
+            33.963295
+        ],
+        "data": {
+            "pm": 35.5,
+            "tenmin": 34.6,
+            "thirtymin": 28.5,
+            "sixtymin": 23,
+            "hour": 12.3,
+            "day": 8.5,
+            "week": 10.1
+        }
+    },
+    {
+        "name": "Westchester",
+        "location": [
+            -118.391396,
+            33.96655
+        ],
+        "data": {
+            "pm": 41.3,
+            "tenmin": 45.1,
+            "thirtymin": 43.4,
+            "sixtymin": 38.4,
+            "hour": 22.2,
+            "day": 14.4,
+            "week": 15.4
+        }
+    },
+    {
+        "name": "Kentwood South",
+        "location": [
+            -118.406586,
+            33.963356
+        ],
+        "data": {
+            "pm": 46.5,
+            "tenmin": 50.4,
+            "thirtymin": 47.2,
+            "sixtymin": 41.2,
+            "hour": 22.8,
+            "day": 14.4,
+            "week": 15.6
+        }
+    },
+    {
+        "name": "Playa Vista",
+        "location": [
+            -118.42094,
+            33.971844
+        ],
+        "data": {
+            "pm": 42.8,
+            "tenmin": 42.6,
+            "thirtymin": 37.2,
+            "sixtymin": 31.2,
+            "hour": 16.7,
+            "day": 10.2,
+            "week": 11.4
+        }
+    },
+    {
+        "name": "The Crow's Nest",
+        "location": [
+            -118.409134,
+            33.961536
+        ],
+        "data": {
+            "pm": 44.2,
+            "tenmin": 47.3,
+            "thirtymin": 44.4,
+            "sixtymin": 39.4,
+            "hour": 23.4,
+            "day": 14.8,
+            "week": 15.2
+        }
+    },
+    {
+        "name": "TF home inside",
+        "location": [
+            -118.449165,
+            33.958443
+        ],
+        "data": {
+            "pm": 0.8,
+            "tenmin": 0.7,
+            "thirtymin": 0.6,
+            "sixtymin": 0.5,
+            "hour": 0.3,
+            "day": 0.4,
+            "week": 0.6
+        }
+    },
+    {
+        "name": "N. Pershing Dr, PDR",
+        "location": [
+            -118.44429,
+            33.959095
+        ],
+        "data": {
+            "pm": 9.4,
+            "tenmin": 9,
+            "thirtymin": 7.4,
+            "sixtymin": 6.4,
+            "hour": 4.2,
+            "day": 3.5,
+            "week": 3.4
+        }
+    },
+    {
+        "name": "Sullivan Field",
+        "location": [
+            -118.41536,
+            33.966743
+        ],
+        "data": {
+            "pm": 47,
+            "tenmin": 48,
+            "thirtymin": 43.2,
+            "sixtymin": 38,
+            "hour": 22.8,
+            "day": 14.2,
+            "week": 14.9
+        }
+    },
+    {
+        "name": "Voets front porch",
+        "location": [
+            -118.37188,
+            33.970142
+        ],
+        "data": {
+            "pm": 43.4,
+            "tenmin": 41.6,
+            "thirtymin": 40.4,
+            "sixtymin": 37.2,
+            "hour": 23.4,
+            "day": 16.2,
+            "week": 17
+        }
+    },
+    {
+        "name": "Playa del Rey",
+        "location": [
+            -118.44063,
+            33.957664
+        ],
+        "data": {
+            "pm": 34.2,
+            "tenmin": 34.3,
+            "thirtymin": 22.8,
+            "sixtymin": 15.6,
+            "hour": 5.3,
+            "day": 2.7,
+            "week": 3
+        }
+    },
+    {
+        "name": "Osage Triangle outside",
+        "location": [
+            -118.3794,
+            33.96232
+        ],
+        "data": {
+            "pm": 39,
+            "tenmin": 41.4,
+            "thirtymin": 41.8,
+            "sixtymin": 38.8,
+            "hour": 24.6,
+            "day": 16.4,
+            "week": 16.4
+        }
+    },
+    {
+        "name": "Kent's yard",
+        "location": [
+            -118.40048,
+            33.978977
+        ],
+        "data": {
+            "pm": 39.4,
+            "tenmin": 40.8,
+            "thirtymin": 38.4,
+            "sixtymin": 33.9,
+            "hour": 18.1,
+            "day": 10.1,
+            "week": 11.6
+        }
+    },
+    {
+        "name": "Cabton",
+        "location": [
+            -118.44202,
+            33.9586
+        ],
+        "data": {
+            "pm": 1.1,
+            "tenmin": 1.8,
+            "thirtymin": 1.9,
+            "sixtymin": 2.5,
+            "hour": 3,
+            "day": 3.2,
+            "week": 3.6
+        }
+    },
+    {
+        "name": "Kentwood South",
+        "location": [
+            -118.40416,
+            33.960133
+        ],
+        "data": {
+            "pm": 43.4,
+            "tenmin": 45.6,
+            "thirtymin": 43.8,
+            "sixtymin": 39.6,
+            "hour": 23.8,
+            "day": 15,
+            "week": 13.4
+        }
+    }
+]

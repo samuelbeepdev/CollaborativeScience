@@ -1,0 +1,402 @@
+[
+    {
+        "name": "AQMD_NASA_23",
+        "location": [
+            -118.56294,
+            34.07508
+        ],
+        "data": {
+            "pm": 25.5,
+            "tenmin": 26.6,
+            "thirtymin": 22.8,
+            "sixtymin": 19.7,
+            "hour": 9.9,
+            "day": 4.2,
+            "week": 6.5
+        }
+    },
+    {
+        "name": "Hunting Palisades",
+        "location": [
+            -118.51824,
+            34.03836
+        ],
+        "data": {
+            "pm": 0.7,
+            "tenmin": 0.6,
+            "thirtymin": 0.4,
+            "sixtymin": 0.4,
+            "hour": 1.6,
+            "day": 1.9,
+            "week": 6.1
+        }
+    },
+    {
+        "name": "CCA Helena and Medio",
+        "location": [
+            -118.4802,
+            34.051643
+        ],
+        "data": {
+            "pm": 16.7,
+            "tenmin": 18.2,
+            "thirtymin": 18.8,
+            "sixtymin": 17.8,
+            "hour": 10.6,
+            "day": 5,
+            "week": 8.6
+        }
+    },
+    {
+        "name": "Iliff St",
+        "location": [
+            -118.51949,
+            34.047226
+        ],
+        "data": {
+            "pm": 0.2,
+            "tenmin": 0.3,
+            "thirtymin": 0.4,
+            "sixtymin": 0.5,
+            "hour": 1.6,
+            "day": 2.2,
+            "week": 3.2
+        }
+    },
+    {
+        "name": "LSMC A",
+        "location": [
+            -118.518196,
+            34.034264
+        ],
+        "data": {
+            "pm": 17.8,
+            "tenmin": 12,
+            "thirtymin": 7.4,
+            "sixtymin": 4.8,
+            "hour": 2.2,
+            "day": 1.6,
+            "week": 2.6
+        }
+    },
+    {
+        "name": "Lower SMonica Canyon (outside)",
+        "location": [
+            -118.51798,
+            34.034103
+        ],
+        "data": {
+            "pm": 36.2,
+            "tenmin": 31,
+            "thirtymin": 21.1,
+            "sixtymin": 15.7,
+            "hour": 8.6,
+            "day": 5.2,
+            "week": 7.4
+        }
+    },
+    {
+        "name": "Bertie",
+        "location": [
+            -118.46912,
+            34.074104
+        ],
+        "data": {
+            "pm": 5.7,
+            "tenmin": 5.8,
+            "thirtymin": 5.6,
+            "sixtymin": 5.8,
+            "hour": 11,
+            "day": 6.2,
+            "week": 2.6
+        }
+    },
+    {
+        "name": "Westland School",
+        "location": [
+            -118.486015,
+            34.129498
+        ],
+        "data": {
+            "pm": 21.7,
+            "tenmin": 21.5,
+            "thirtymin": 20.9,
+            "sixtymin": 20,
+            "hour": 13.8,
+            "day": 6.4,
+            "week": 8.8
+        }
+    },
+    {
+        "name": "Brentwood School East Campus",
+        "location": [
+            -118.46885,
+            34.067047
+        ],
+        "data": {
+            "pm": 15.6,
+            "tenmin": 14.8,
+            "thirtymin": 14.8,
+            "sixtymin": 14.5,
+            "hour": 8.9,
+            "day": 4.8,
+            "week": 9
+        }
+    },
+    {
+        "name": "Brentwood School West Campus",
+        "location": [
+            -118.47584,
+            34.06109
+        ],
+        "data": {
+            "pm": 33.2,
+            "tenmin": 32.1,
+            "thirtymin": 27.1,
+            "sixtymin": 23.2,
+            "hour": 13,
+            "day": 6.2,
+            "week": 9.2
+        }
+    },
+    {
+        "name": "Marquez Knolls",
+        "location": [
+            -118.541275,
+            34.057083
+        ],
+        "data": {
+            "pm": 3.4,
+            "tenmin": 3.1,
+            "thirtymin": 2.6,
+            "sixtymin": 2.1,
+            "hour": 1.7,
+            "day": 2.2,
+            "week": 3.3
+        }
+    },
+    {
+        "name": "LaCondesa",
+        "location": [
+            -118.51016,
+            34.080334
+        ],
+        "data": {
+            "pm": 3,
+            "tenmin": 3.3,
+            "thirtymin": 3.4,
+            "sixtymin": 3.4,
+            "hour": 3.3,
+            "day": 1.8,
+            "week": 2.5
+        }
+    },
+    {
+        "name": "890 N Bundy Drive",
+        "location": [
+            -118.48057,
+            34.07691
+        ],
+        "data": {
+            "pm": 28.9,
+            "tenmin": 28.3,
+            "thirtymin": 24.5,
+            "sixtymin": 21.6,
+            "hour": 13,
+            "day": 6.2,
+            "week": 9
+        }
+    },
+    {
+        "name": "956 Corsica",
+        "location": [
+            -118.50814,
+            34.045063
+        ],
+        "data": {
+            "pm": 5.9,
+            "tenmin": 5.6,
+            "thirtymin": 5.2,
+            "sixtymin": 4.9,
+            "hour": 3.6,
+            "day": 2.4,
+            "week": 3.8
+        }
+    },
+    {
+        "name": "Lower Bienveneda",
+        "location": [
+            -118.54067,
+            34.044853
+        ],
+        "data": {
+            "pm": 1.8,
+            "tenmin": 1.5,
+            "thirtymin": 1.6,
+            "sixtymin": 1.7,
+            "hour": 2.2,
+            "day": 3.4,
+            "week": 4.3
+        }
+    },
+    {
+        "name": "ORR Sullivan Canyon",
+        "location": [
+            -118.5022,
+            34.06889
+        ],
+        "data": {
+            "pm": 21.5,
+            "tenmin": 19.6,
+            "thirtymin": 15.2,
+            "sixtymin": 13,
+            "hour": 7.1,
+            "day": 3.2,
+            "week": 5.2
+        }
+    },
+    {
+        "name": "Farlin Air",
+        "location": [
+            -118.46436,
+            34.06741
+        ],
+        "data": {
+            "pm": 30.8,
+            "tenmin": 30,
+            "thirtymin": 26,
+            "sixtymin": 23.1,
+            "hour": 14.3,
+            "day": 6.8,
+            "week": 9.6
+        }
+    },
+    {
+        "name": "Hylands2",
+        "location": [
+            -118.55788,
+            34.07158
+        ],
+        "data": {
+            "pm": 26.5,
+            "tenmin": 27.8,
+            "thirtymin": 24.4,
+            "sixtymin": 21.6,
+            "hour": 11.8,
+            "day": 5,
+            "week": 6.3
+        }
+    },
+    {
+        "name": "Woodacres-K",
+        "location": [
+            -118.50705,
+            34.040073
+        ],
+        "data": {
+            "pm": null,
+            "tenmin": null,
+            "thirtymin": null,
+            "sixtymin": null,
+            "hour": null,
+            "day": null,
+            "week": null
+        }
+    },
+    {
+        "name": "San Onofre Outside",
+        "location": [
+            -118.503235,
+            34.061935
+        ],
+        "data": {
+            "pm": 26.8,
+            "tenmin": 25.5,
+            "thirtymin": 21.8,
+            "sixtymin": 19.7,
+            "hour": 9.3,
+            "day": 3.2,
+            "week": 5.2
+        }
+    },
+    {
+        "name": "Palisades",
+        "location": [
+            -118.50301,
+            34.062042
+        ],
+        "data": {
+            "pm": 0,
+            "tenmin": 0.1,
+            "thirtymin": 0.1,
+            "sixtymin": 0.1,
+            "hour": 0.1,
+            "day": 0.1,
+            "week": 0.3
+        }
+    },
+    {
+        "name": "REH-PurpleAir",
+        "location": [
+            -118.49017,
+            34.077908
+        ],
+        "data": {
+            "pm": 6.2,
+            "tenmin": 6.5,
+            "thirtymin": 6.6,
+            "sixtymin": 6.7,
+            "hour": 4.8,
+            "day": 2.5,
+            "week": 3.3
+        }
+    },
+    {
+        "name": "Calle Haleigh",
+        "location": [
+            -118.54849,
+            34.073227
+        ],
+        "data": {
+            "pm": 21.4,
+            "tenmin": 22.5,
+            "thirtymin": 22.8,
+            "sixtymin": 23.4,
+            "hour": 16,
+            "day": 6.2,
+            "week": 6
+        }
+    },
+    {
+        "name": "Beach Club",
+        "location": [
+            -118.51582,
+            34.0263
+        ],
+        "data": {
+            "pm": 4,
+            "tenmin": 1.7,
+            "thirtymin": 1.4,
+            "sixtymin": 2.2,
+            "hour": 6.7,
+            "day": 8.6,
+            "week": 11.9
+        }
+    },
+    {
+        "name": "San Onofre",
+        "location": [
+            -118.503296,
+            34.061794
+        ],
+        "data": {
+            "pm": 0,
+            "tenmin": 0,
+            "thirtymin": 0,
+            "sixtymin": 0,
+            "hour": 0,
+            "day": 0,
+            "week": 0.3
+        }
+    }
+]

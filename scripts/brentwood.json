@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+"name": "Brentwood",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Westland School" }, "geometry": { "type": "Point", "coordinates": [ -118.486015, 34.129498 ] } },
+{ "type": "Feature", "properties": { "Name": "AQMD_NASA_23" }, "geometry": { "type": "Point", "coordinates": [ -118.56294, 34.07508 ] } },
+{ "type": "Feature", "properties": { "Name": "Hylands2" }, "geometry": { "type": "Point", "coordinates": [ -118.55788, 34.07158 ] } },
+{ "type": "Feature", "properties": { "Name": "Calle Haleigh" }, "geometry": { "type": "Point", "coordinates": [ -118.54849, 34.073227 ] } },
+{ "type": "Feature", "properties": { "Name": "LaCondesa" }, "geometry": { "type": "Point", "coordinates": [ -118.51016, 34.080334 ] } },
+{ "type": "Feature", "properties": { "Name": "REH-PurpleAir" }, "geometry": { "type": "Point", "coordinates": [ -118.49017, 34.077908 ] } },
+{ "type": "Feature", "properties": { "Name": "890 N Bundy Drive" }, "geometry": { "type": "Point", "coordinates": [ -118.48057, 34.07691 ] } },
+{ "type": "Feature", "properties": { "Name": "Bertie" }, "geometry": { "type": "Point", "coordinates": [ -118.46912, 34.074104 ] } },
+{ "type": "Feature", "properties": { "Name": "Farlin Air" }, "geometry": { "type": "Point", "coordinates": [ -118.46436, 34.06741 ] } },
+{ "type": "Feature", "properties": { "Name": "ORR Sullivan Canyon" }, "geometry": { "type": "Point", "coordinates": [ -118.5022, 34.06889 ] } },
+{ "type": "Feature", "properties": { "Name": "Marquez Knolls" }, "geometry": { "type": "Point", "coordinates": [ -118.541275, 34.057083 ] } },
+{ "type": "Feature", "properties": { "Name": "Lower Bienveneda" }, "geometry": { "type": "Point", "coordinates": [ -118.54067, 34.044853 ] } },
+{ "type": "Feature", "properties": { "Name": "Iliff St" }, "geometry": { "type": "Point", "coordinates": [ -118.51949, 34.047226 ] } },
+{ "type": "Feature", "properties": { "Name": "Palisades" }, "geometry": { "type": "Point", "coordinates": [ -118.50301, 34.062042 ] } },
+{ "type": "Feature", "properties": { "Name": "956 Corsica" }, "geometry": { "type": "Point", "coordinates": [ -118.50814, 34.045063 ] } },
+{ "type": "Feature", "properties": { "Name": "Hunting Palisades" }, "geometry": { "type": "Point", "coordinates": [ -118.51824, 34.03836 ] } },
+{ "type": "Feature", "properties": { "Name": "LSMC A" }, "geometry": { "type": "Point", "coordinates": [ -118.518196, 34.034264 ] } },
+{ "type": "Feature", "properties": { "Name": "Beach Club" }, "geometry": { "type": "Point", "coordinates": [ -118.51582, 34.0263 ] } },
+{ "type": "Feature", "properties": { "Name": "Woodacres-K" }, "geometry": { "type": "Point", "coordinates": [ -118.50705, 34.040073 ] } },
+{ "type": "Feature", "properties": { "Name": "CCA Helena and Medio" }, "geometry": { "type": "Point", "coordinates": [ -118.4802, 34.051643 ] } },
+{ "type": "Feature", "properties": { "Name": "Brentwood School East Campus" }, "geometry": { "type": "Point", "coordinates": [ -118.46885, 34.067047 ] } },
+{ "type": "Feature", "properties": { "Name": "Lower SMonica Canyon (outside)" }, "geometry": { "type": "Point", "coordinates": [ -118.51798, 34.034103 ] } },
+{ "type": "Feature", "properties": { "Name": "San Onofre" }, "geometry": { "type": "Point", "coordinates": [ -118.503296, 34.061794 ] } },
+{ "type": "Feature", "properties": { "Name": "San Onofre Outside" }, "geometry": { "type": "Point", "coordinates": [ -118.503235, 34.061935 ] } },
+{ "type": "Feature", "properties": { "Name": "Brentwood School West Campus" }, "geometry": { "type": "Point", "coordinates": [ -118.47584, 34.06109 ] } }
+]
+}
