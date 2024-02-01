@@ -717,8 +717,8 @@
             ]
         }
 
-        L.geoJSON(brentwoodBounds).addTo(map).bindPopup('<b style="font-size:1.6em">Brentwood - Pacific Palisades</b><br /><span style="font-size:1.3em">Average weekly AQI: 5.4</span>');
-        L.geoJSON(westchesterBounds).addTo(map).bindPopup('<b style="font-size:1.6em">Westchester - Playa del Rey</b><br/><span style="font-size:1.3em">Average weekly AQI: 11.3</span>');
+        L.geoJSON(brentwoodBounds).addTo(map).bindPopup('<b style="font-size:1.6em">Brentwood - Pacific Palisades</b><br /><span style="font-size:1.3em">Average weekly particulate matter (lower is better): 5.4</span>');
+        L.geoJSON(westchesterBounds).addTo(map).bindPopup('<b style="font-size:1.6em">Westchester - Playa del Rey</b><br/><span style="font-size:1.3em">Average weekly particulate matter (lower is better): 11.3</span>');
 
         westchester.forEach(sensor => {
             L.marker([sensor.location[1], sensor.location[0]], { icon: westchesterIcon }).addTo(map).bindPopup(`<b>${sensor.name}</b><br />Last hour: ${sensor.data.hour}<br />Last day: ${sensor.data.day}<br />Last week: ${sensor.data.week}`)
